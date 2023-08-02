@@ -5,6 +5,12 @@
 .flashy {
     color: red;
     font-style: italic;
+    float: right;
+}
+
+.page-heading {
+  color:red;
+  text-align: center;
 }
 
 .sugar {
@@ -14,7 +20,9 @@
 
 .cupcake-images {
   width:50%;
+  float:left;
 }
+
 .cupcakes {
   width: 50%;
 }
@@ -27,5 +35,10 @@
 .sidebar {
   width: 50%;
     font-size: 25px;
-    color: red
+    color: red;
+    float: right;
+}
+
+.most-popular {
+  float: left;
 }
