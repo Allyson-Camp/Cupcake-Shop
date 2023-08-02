@@ -13,10 +13,8 @@
 }
 
 .cupcake-images {
-    width: 50%;
-    background-color: white;
+  width:50%;
 }
-
 .cupcakes {
   width: 50%;
 }
@@ -26,3 +24,8 @@
     color: white;
 }
 
+.sidebar {
+  width: 50%;
+    font-size: 25px;
+    color: red
+}
