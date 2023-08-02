@@ -7,6 +7,11 @@
     font-style: italic;
 }
 
+.sugar {
+    font-weight: bold;
+    color: yellow
+}
+
 .cupcake-images {
     width: 50%;
     background-color: white;
@@ -20,3 +25,4 @@
     font-size: larger;
     color: white;
 }
+
