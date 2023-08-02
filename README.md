@@ -20,8 +20,6 @@ _This application is for use by Sugar Rush Cupcakes to display their current men
 
 ## Setup/Installation Requirements
 
-*_Visit this repo link _
-
 *_Go to [This link](https://github.com/Allyson-Camp/Cupcake-Shop.git)_
 
 * _Clone the repository to your desktop_
