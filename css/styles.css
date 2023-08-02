@@ -1,4 +1,4 @@
-* {
+body {
     background-color: black;
 }
 
@@ -9,22 +9,22 @@
 }
 
 .page-heading {
-  color:red;
-  text-align: center;
+    color: red;
+    text-align: center;
 }
 
 .sugar {
     font-weight: bold;
-    color: yellow
+    color: yellow;
 }
 
 .cupcake-images {
-  width:50%;
-  float:left;
+    width: 50%;
+    float: left;
 }
 
 .cupcakes {
-  width: 50%;
+    width: 50%;
 }
 
 #best {
@@ -33,12 +33,22 @@
 }
 
 .sidebar {
-  width: 50%;
+  background-color: white;
+    width: 50%;
     font-size: 25px;
     color: red;
     float: right;
+    text-align: center;
+    padding: 10px;
+    border: solid 5px;
+    border-radius: 10px 5px 10px 5px;
+   box-sizing: border-box;
+}
+
+.sidebar h2{
+  margin: 5px;
 }
 
 .most-popular {
-  float: left;
+    float: left;
 }
