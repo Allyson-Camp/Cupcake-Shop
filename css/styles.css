@@ -7,6 +7,14 @@
     font-style: italic;
 }
 
+.cupcake-images {
+    width: 50%;
+    background-color: white;
+}
+
+.cupcakes {
+  width: 50%;
+}
 
 #best {
     font-size: larger;
