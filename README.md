@@ -1,5 +1,40 @@
-<p>Lorem ipsum dolor sit amet. Ex dolores earum qui natus cumque aut itaque alias et enim voluptatem aut enim tempora nam molestias tempora eum excepturi aperiam? Aut laudantium aliquam aut autem laboriosam hic blanditiis vitae. Id sapiente fugiat sit nisi dolorem et autem officia qui repellat odit eum doloremque iure vel minus nisi. Qui natus eaque ea omnis aperiam non amet fugiat vel obcaecati omnis vel voluptatum aperiam. </p>
+# _Sugar Rush Cupcakes Website_
 
-<p>Cum explicabo explicabo id voluptatibus quia eum fugiat possimus. Eos maxime debitis aut dolores sunt et molestias neque At facere alias et animi dolorem. Sit veritatis accusamus et totam voluptate sed officiis distinctio ab ullam veniam. </p>
+#### By _Allyson Camp and Simi O_
 
-<p>Non fugiat labore ea doloremque fugiat aut galisum dolore sed molestiae ducimus? Et quam nisi et dolores fugit qui nihil neque non dolor ullam. Eum expedita beatae eum veniam tempore qui dolore repudiandae. </p>
+#### _A website for Sugar Rush Cupcakes company_
+
+## Technologies Used
+
+*_html_
+
+*_css_
+
+*_GitHub_
+
+*_Git_
+
+## Description
+
+_This application is for use by Sugar Rush Cupcakes to display their current menus, weekly recipes, and any other pertinent information with their customers._
+
+## Setup/Installation Requirements
+
+*_Visit this repo link _
+
+*_Go to [This link](https://github.com/Allyson-Camp/Cupcake-Shop.git)_
+
+* _Clone the repository to your desktop_
+
+* _Open all files in branching-test-project_
+
+## Known Bugs
+
+*_None as of Aug 2, 2023_
+
+
+## License
+
+GPL
+
+Copyright (c) _Allyson Camp and Simi O_
