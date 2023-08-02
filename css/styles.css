@@ -1,4 +1,13 @@
+* {
+  background-color: black;
+}
+
 .flashy {
   color: red;
   font-style: italic;
+}
+
+#best {
+    font-size: larger;
+    color: white;
 }
